@@ -1,2 +1,2 @@
-# Ejercicio-bolita
+# Ejercicio bolita
 Ejercicio básico en javascript
